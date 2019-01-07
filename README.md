@@ -1,5 +1,6 @@
 # earthquake-list
 Earthquakes of CA in last week
+
 Please the following steps for run this:-
 
 1- git clone or download it.
