@@ -1,0 +1,8 @@
+div
+	h1 Earthquakes list in last week of CA
+	table
+		for prop in data
+			tr
+				td= prop.properties.place
+				td= moment(prop.properties.time).format('DD-MM-YYYY HH:MM:SS')
+	
